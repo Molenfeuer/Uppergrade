@@ -1,9 +1,9 @@
 {
-  "Name": "M",
+  "Name": "Upper-grade",
   "Author": "Molenfeuer",
   "Version": "1.0.0",
   "Description": "",
-  "UniqueID": "Molenfeuer.M",
+  "UniqueID": "Molenfeuer.Uppergrade",
   "UpdateKeys": [],
   "MinimumApiVersion": "4.0.0",
   "ContentPackFor": {
