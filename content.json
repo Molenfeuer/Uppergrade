@@ -6,6 +6,10 @@
       "Target": "Mods/{{ModId}}/Craftables",
       "FromFile": "assets/craftables.png",
       "LogName": "craftables texture load"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/keg.json"
     }
   ]
 }
