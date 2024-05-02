@@ -1,0 +1,13 @@
+{
+  "Name": "M",
+  "Author": "Molenfeuer",
+  "Version": "1.0.0",
+  "Description": "",
+  "UniqueID": "Molenfeuer.M",
+  "UpdateKeys": [],
+  "MinimumApiVersion": "4.0.0",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "2.0.0"
+  }
+}
