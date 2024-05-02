@@ -3,5 +3,7 @@
   "message.invalidCount4": "Requires exactly 4 items of the same type.",
   "message.invalidCount10": "Requires exactly 10 items of the same type.",
   "doubleKeg.name": "Double Keg",
-  "doubleKeg.description": "Like the normal keg, but can process two items at once."
+  "doubleKeg.description": "Like the normal keg, but can process two items at once.",
+  "longJar.name": "Long Preserves Jar",
+  "longJar.description": "Like the normal preserves jar, but can process two items at once ... and is a bit loonger."
 }
