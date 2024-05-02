@@ -2,6 +2,13 @@
   "Changes": [
     {
       "Action": "EditData",
+      "Target": "Data/CraftingRecipes",
+      "Entries": {
+        "{{ModId}}_DoubleKeg": "(BC)12 2 388 10 725 2/Home/{{ModId}}_DoubleKeg/true/Farming 8/"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Data/BigCraftables",
       "Entries": {
         "{{ModId}}_DoubleKeg": {
