@@ -5,7 +5,8 @@
       "Target": "Data/CraftingRecipes",
       "Entries": {
         "{{ModId}}_DoubleKeg": "(BC)12 2 388 10 725 2/Home/{{ModId}}_DoubleKeg/true/Farming 8/"
-      }
+      },
+      "LogName": "Double keg recipe definition"
     },
     {
       "Action": "EditData",
@@ -25,7 +26,8 @@
           "ContextTags": null,
           "CustomFields": null
         }
-      }
+      },
+      "LogName": "Double keg BC definition"
     },
     {
       "Action": "EditData",
@@ -513,7 +515,8 @@
           "ExperienceGainOnHarvest": null,
           "CustomFields": null
         }
-      }
+      },
+      "LogName": "Double keg machine definition"
     }
   ]
 }
