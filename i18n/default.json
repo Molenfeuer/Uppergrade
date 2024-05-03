@@ -5,5 +5,7 @@
   "doubleKeg.name": "Double Keg",
   "doubleKeg.description": "Like the normal keg, but can process two items at once.",
   "longJar.name": "Long Preserves Jar",
-  "longJar.description": "Like the normal preserves jar, but can process two items at once ... and is a bit loonger."
+  "longJar.description": "Like the normal preserves jar, but can process two items at once ... and is a bit loonger.",
+  "longCask.name": "Long Cask",
+  "longCask.description": "Can process two items at once.\n\nNote: Will produce only iridium quality, no lower quality\n(wine will be done only in 56 days)"
 }
