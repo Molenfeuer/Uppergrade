@@ -2,6 +2,7 @@
   "message.invalidCount": "Requires exactly 2 items of the same type.",
   "message.invalidCount4": "Requires exactly 4 items of the same type.",
   "message.invalidCount10": "Requires exactly 10 items of the same type.",
+  "message.caskNoCellar": "Only works in Cellar.",
   "doubleKeg.name": "Double Keg",
   "doubleKeg.description": "Like the normal keg, but can process two items at once.",
   "longJar.name": "Long Preserves Jar",
