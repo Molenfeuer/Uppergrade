@@ -18,6 +18,10 @@
     {
       "Action": "Include",
       "FromFile": "data/cask.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/furnace.json"
     }
   ]
 }

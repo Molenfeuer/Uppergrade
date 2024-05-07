@@ -2,11 +2,14 @@
   "message.invalidCount": "Requires exactly 2 items of the same type.",
   "message.invalidCount4": "Requires exactly 4 items of the same type.",
   "message.invalidCount10": "Requires exactly 10 items of the same type.",
+  "message.needMoreCoal": "Requires 2 Coal.",
   "message.caskNoCellar": "Only works in Cellar.",
   "doubleKeg.name": "Double Keg",
   "doubleKeg.description": "Like the normal keg, but can process two items at once.",
   "longJar.name": "Long Preserves Jar",
   "longJar.description": "Like the normal preserves jar, but can process two items at once ... and is a bit loonger.",
   "longCask.name": "Long Cask",
-  "longCask.description": "Can process two items at once.\n\nNote: Will produce only iridium quality, no lower quality\n(wine will be done only in 56 days)"
+  "longCask.description": "Can process two items at once.\n\nNote: Will produce only iridium quality, no lower quality\n(wine will be done only in 56 days)",
+  "doubleFurnace.name": "Double Furnace",
+  "doubleFurnace.description": "Like the normal furnace, but can process two items at once."
 }
