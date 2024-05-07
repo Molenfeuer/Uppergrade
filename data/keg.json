@@ -296,7 +296,7 @@
                   "Trigger": "ItemPlacedInMachine",
                   "RequiredItemId": "(O)423",
                   "RequiredTags": null,
-                  "RequiredCount": 4,
+                  "RequiredCount": 2,
                   "Condition": null
                 }
               ],
@@ -335,7 +335,7 @@
               ],
               "MinutesUntilReady": 600,
               "DaysUntilReady": -1,
-              "InvalidCountMessage": "{{i18n: message.invalidCount4}}",
+              "InvalidCountMessage": "{{i18n: message.invalidCount}}",
               "RecalculateOnCollect": false
             },
             {
