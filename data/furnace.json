@@ -6,6 +6,9 @@
       "Entries": {
         "{{ModId}}_DoubleFurnace": "(BC)13 2 335 1 768 2/Home/{{ModId}}_DoubleFurnace/true/Mining 1/"
       },
+      "When": {
+        "HasCraftingRecipe": "furnace"
+      },
       "LogName": "Double furnace recipe definition"
     },
     {

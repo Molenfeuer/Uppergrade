@@ -6,6 +6,9 @@
       "Entries": {
         "{{ModId}}_LongCask": "(BC)163 2 388 10 725 2/Home/{{ModId}}_LongCask/true/Farming 1/"
       },
+      "When": {
+        "FarmhouseUpgrade": 3
+      },
       "LogName": "Long cask recipe definition"
     },
     {
