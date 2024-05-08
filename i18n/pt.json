@@ -1,0 +1,15 @@
+{
+  "message.invalidCount": "Requer exatamente 2 itens do mesmo tipo.",
+  "message.invalidCount4": "Requer exatamente 4 itens do mesmo tipo.",
+  "message.invalidCount10": "Requer exatamente 10 itens do mesmo tipo.",
+  "message.needMoreCoal": "Requer 2 carvões.",
+  "message.caskNoCellar": "Funciona apenas na Adega.",
+  "doubleKeg.name": "Barril Duplo",
+  "doubleKeg.description": "É como o barril normal, mas pode processar dois itens de uma vez.",
+  "longJar.name": "Jarra de Conserva Grande",
+  "longJar.description": "É como a jarra de conserva normal, mas pode processar dois itens de uma vez ... e é um pouco grande.",
+  "longCask.name": "Barril de Madeira Grande",
+  "longCask.description": "Pode processar dois itens de uma vez.\n\nNota: A produção é limitada apenas a qualidade de irídio, nenhuma inferior. \n(O vinho será produzido em 56 dias)",
+  "doubleFurnace.name": "Fornalha Dupla",
+  "doubleFurnace.description": "É como a fornalha normal, mas pode processar dois itens de uma vez."
+}
