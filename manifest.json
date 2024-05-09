@@ -4,7 +4,7 @@
   "Version": "1.0.0",
   "Description": "",
   "UniqueID": "Molenfeuer.Uppergrade",
-  "UpdateKeys": [],
+  "UpdateKeys": [ "Nexus:23823" ],
   "MinimumApiVersion": "4.0.0",
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher",
