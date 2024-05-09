@@ -1,0 +1,15 @@
+{
+  "message.invalidCount": "需要正好 2 个相同类型的物品。",
+  "message.invalidCount4": "需要正好 4 个相同类型的物品。",
+  "message.invalidCount10": "需要正好 10 个相同类型的物品。",
+  "message.needMoreCoal": "需要 2 块煤。",
+  "message.caskNoCellar": "只能在地下室中使用。",
+  "doubleKeg.name": "双倍酒桶",
+  "doubleKeg.description": "类似于普通的酒桶，但可以同时处理两个物品。",
+  "longJar.name": "长罐头瓶",
+  "longJar.description": "类似于普通的罐头瓶，但可以同时处理两个物品... 而且有点长。",
+  "longCask.name": "长桶",
+  "longCask.description": "可以同时处理两个物品。\n\n注意：只会产生铱金质量，不会有更低的质量\n(葡萄酒只需 56 天完成)。",
+  "doubleFurnace.name": "双倍熔炉",
+  "doubleFurnace.description": "类似于普通的熔炉，但可以同时处理两个物品。"
+}
