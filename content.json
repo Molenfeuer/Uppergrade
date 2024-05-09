@@ -1,0 +1,27 @@
+{
+  "Format": "2.0.0",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/Craftables",
+      "FromFile": "assets/craftables.png",
+      "LogName": "craftables texture load"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/keg.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/jar.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/cask.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/furnace.json"
+    }
+  ]
+}

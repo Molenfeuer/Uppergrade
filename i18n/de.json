@@ -1,0 +1,15 @@
+{
+  "message.invalidCount": "Benötigt mind. 2 Items von diesem Typ.",
+  "message.invalidCount4": "Benötigt mind. 4 Items von diesem Typ.",
+  "message.invalidCount10": "Benötigt mind. 10 Items von diesem Typ.",
+  "message.needMoreCoal": "Benötigt 2 Kohle.",
+  "message.caskNoCellar": "Funktioniert nur im Keller.",
+  "doubleKeg.name": "Doppelfass",
+  "doubleKeg.description": "Im Grunde wie das normale Fass, produziert jedoch 2 Items gleichzeitig.",
+  "longJar.name": "Tiefes Einmachgefäß",
+  "longJar.description": "Im Grunde wie das normale Einmachgefäß, produziert jedoch 2 Items gleichzeitig... und ist etwas länger.",
+  "longCask.name": "Tiefes Reifefass",
+  "longCask.description": "Produziert zwei Items gleichzeitig.\n\nInfo: Kann nur in Iridium Qualität ohne Zwischenschritte produzieren\n(Wein braucht 56 Tage)",
+  "doubleFurnace.name": "Doppelschmelzofen",
+  "doubleFurnace.description": "Im Grunde wie der normale Schmelzofen, produziert jedoch 2 Items gleichzeitig."
+}

@@ -1,0 +1,386 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/CraftingRecipes",
+      "Entries": {
+        "{{ModId}}_LongCask": "(BC)163 2 388 10 725 2/Home/{{ModId}}_LongCask/true/Farming 1/"
+      },
+      "When": {
+        "FarmhouseUpgrade": 3
+      },
+      "LogName": "Long cask recipe definition"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/BigCraftables",
+      "Entries": {
+        "{{ModId}}_LongCask": {
+          "Name": "{{ModId}}_LongCask",
+          "DisplayName": "{{i18n: longCask.name}}",
+          "Description": "{{i18n: longCask.description}}",
+          "Price": 0,
+          "Fragility": 0,
+          "CanBePlacedOutdoors": true,
+          "CanBePlacedIndoors": true,
+          "IsLamp": false,
+          "Texture": "Mods\\{{ModId}}\\Craftables",
+          "SpriteIndex": 2,
+          "ContextTags": null,
+          "CustomFields": null
+        }
+      },
+      "LogName": "Long cask BC definition"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Machines",
+      "Entries": {
+        "(BC){{ModId}}_LongCask": {
+          "HasInput": false,
+          "HasOutput": false,
+          "InteractMethod": null,
+          "OutputRules": [
+            {
+              "Id": "Default_Cheese",
+              "Triggers": [
+                {
+                  "Id": "ItemPlacedInMachine",
+                  "Trigger": "ItemPlacedInMachine",
+                  "RequiredItemId": "(O)424",
+                  "RequiredTags": null,
+                  "RequiredCount": 2,
+                  "Condition": "LOCATION_NAME Target Cellar, ITEM_QUALITY Input 0 2"
+                }
+              ],
+              "UseFirstValidOutput": false,
+              "OutputItem": [
+                {
+                  "CustomData": null,
+                  "OutputMethod": null,
+                  "CopyColor": false,
+                  "CopyPrice": false,
+                  "CopyQuality": false,
+                  "PreserveType": null,
+                  "PreserveId": null,
+                  "IncrementMachineParentSheetIndex": 0,
+                  "PriceModifiers": null,
+                  "PriceModifierMode": "Stack",
+                  "Condition": null,
+                  "Id": "(O)424",
+                  "ItemId": "(O)424",
+                  "RandomItemId": null,
+                  "MaxItems": null,
+                  "MinStack": 2,
+                  "MaxStack": 2,
+                  "Quality": 4,
+                  "ObjectInternalName": null,
+                  "ObjectDisplayName": null,
+                  "ToolUpgradeLevel": -1,
+                  "IsRecipe": false,
+                  "StackModifiers": null,
+                  "StackModifierMode": "Stack",
+                  "QualityModifiers": null,
+                  "QualityModifierMode": "Stack",
+                  "ModData": null,
+                  "PerItemCondition": null
+                }
+              ],
+              "MinutesUntilReady": -1,
+              "DaysUntilReady": 14 ,
+              "InvalidCountMessage": "{{i18n: message.invalidCount}}",
+              "RecalculateOnCollect": false
+            },
+            {
+              "Id": "Default_GoatCheese",
+              "Triggers": [
+                {
+                  "Id": "ItemPlacedInMachine",
+                  "Trigger": "ItemPlacedInMachine",
+                  "RequiredItemId": "(O)426",
+                  "RequiredTags": null,
+                  "RequiredCount": 2,
+                  "Condition": "LOCATION_NAME Target Cellar, ITEM_QUALITY Input 0 2"
+                }
+              ],
+              "UseFirstValidOutput": false,
+              "OutputItem": [
+                {
+                  "CustomData": null,
+                  "OutputMethod": null,
+                  "CopyColor": false,
+                  "CopyPrice": false,
+                  "CopyQuality": false,
+                  "PreserveType": null,
+                  "PreserveId": null,
+                  "IncrementMachineParentSheetIndex": 0,
+                  "PriceModifiers": null,
+                  "PriceModifierMode": "Stack",
+                  "Condition": null,
+                  "Id": "(O)426",
+                  "ItemId": "(O)426",
+                  "RandomItemId": null,
+                  "MaxItems": null,
+                  "MinStack": 2,
+                  "MaxStack": 2,
+                  "Quality": 4,
+                  "ObjectInternalName": null,
+                  "ObjectDisplayName": null,
+                  "ToolUpgradeLevel": -1,
+                  "IsRecipe": false,
+                  "StackModifiers": null,
+                  "StackModifierMode": "Stack",
+                  "QualityModifiers": null,
+                  "QualityModifierMode": "Stack",
+                  "ModData": null,
+                  "PerItemCondition": null
+                }
+              ],
+              "MinutesUntilReady": -1,
+              "DaysUntilReady": 14,
+              "InvalidCountMessage": "{{i18n: message.invalidCount}}",
+              "RecalculateOnCollect": false
+            },
+            {
+              "Id": "Default_Wine",
+              "Triggers": [
+                {
+                  "Id": "ItemPlacedInMachine",
+                  "Trigger": "ItemPlacedInMachine",
+                  "RequiredItemId": "(O)348",
+                  "RequiredTags": null,
+                  "RequiredCount": 2,
+                  "Condition": "LOCATION_NAME Target Cellar, ITEM_QUALITY Input 0 2"
+                }
+              ],
+              "UseFirstValidOutput": false,
+              "OutputItem": [
+                {
+                  "CustomData": null,
+                  "OutputMethod": null,
+                  "CopyColor": false,
+                  "CopyPrice": false,
+                  "CopyQuality": false,
+                  "PreserveType": null,
+                  "PreserveId": null,
+                  "IncrementMachineParentSheetIndex": 0,
+                  "PriceModifiers": null,
+                  "PriceModifierMode": "Stack",
+                  "Condition": null,
+                  "Id": "Default",
+                  "ItemId": "FLAVORED_ITEM Wine DROP_IN_PRESERVE",
+                  "RandomItemId": null,
+                  "MaxItems": null,
+                  "MinStack": 2,
+                  "MaxStack": 2,
+                  "Quality": 4,
+                  "ObjectInternalName": null,
+                  "ObjectDisplayName": null,
+                  "ToolUpgradeLevel": -1,
+                  "IsRecipe": false,
+                  "StackModifiers": null,
+                  "StackModifierMode": "Stack",
+                  "QualityModifiers": null,
+                  "QualityModifierMode": "Stack",
+                  "ModData": null,
+                  "PerItemCondition": null
+                }
+              ],
+              "MinutesUntilReady": -1,
+              "DaysUntilReady": 56,
+              "InvalidCountMessage": "{{i18n: message.invalidCount}}",
+              "RecalculateOnCollect": false
+            },
+            {
+              "Id": "Default_Mead",
+              "Triggers": [
+                {
+                  "Id": "ItemPlacedInMachine",
+                  "Trigger": "ItemPlacedInMachine",
+                  "RequiredItemId": "(O)459",
+                  "RequiredTags": null,
+                  "RequiredCount": 2,
+                  "Condition": "LOCATION_NAME Target Cellar, ITEM_QUALITY Input 0 2"
+                }
+              ],
+              "UseFirstValidOutput": false,
+              "OutputItem": [
+                {
+                  "CustomData": null,
+                  "OutputMethod": null,
+                  "CopyColor": false,
+                  "CopyPrice": false,
+                  "CopyQuality": false,
+                  "PreserveType": null,
+                  "PreserveId": null,
+                  "IncrementMachineParentSheetIndex": 0,
+                  "PriceModifiers": null,
+                  "PriceModifierMode": "Stack",
+                  "Condition": null,
+                  "Id": "(O)459",
+                  "ItemId": "(O)459",
+                  "RandomItemId": null,
+                  "MaxItems": null,
+                  "MinStack": 2,
+                  "MaxStack": 2,
+                  "Quality": 4,
+                  "ObjectInternalName": null,
+                  "ObjectDisplayName": null,
+                  "ToolUpgradeLevel": -1,
+                  "IsRecipe": false,
+                  "StackModifiers": null,
+                  "StackModifierMode": "Stack",
+                  "QualityModifiers": null,
+                  "QualityModifierMode": "Stack",
+                  "ModData": null,
+                  "PerItemCondition": null
+                }
+              ],
+              "MinutesUntilReady": -1,
+              "DaysUntilReady": 28,
+              "InvalidCountMessage": "{{i18n: message.invalidCount}}",
+              "RecalculateOnCollect": false
+            },
+            {
+              "Id": "Default_PaleAle",
+              "Triggers": [
+                {
+                  "Id": "ItemPlacedInMachine",
+                  "Trigger": "ItemPlacedInMachine",
+                  "RequiredItemId": "(O)303",
+                  "RequiredTags": null,
+                  "RequiredCount": 2,
+                  "Condition": "LOCATION_NAME Target Cellar, ITEM_QUALITY Input 0 2"
+                }
+              ],
+              "UseFirstValidOutput": false,
+              "OutputItem": [
+                {
+                  "CustomData": null,
+                  "OutputMethod": null,
+                  "CopyColor": false,
+                  "CopyPrice": false,
+                  "CopyQuality": false,
+                  "PreserveType": null,
+                  "PreserveId": null,
+                  "IncrementMachineParentSheetIndex": 0,
+                  "PriceModifiers": null,
+                  "PriceModifierMode": "Stack",
+                  "Condition": null,
+                  "Id": "(O)303",
+                  "ItemId": "(O)303",
+                  "RandomItemId": null,
+                  "MaxItems": null,
+                  "MinStack": 2,
+                  "MaxStack": 2,
+                  "Quality": 4,
+                  "ObjectInternalName": null,
+                  "ObjectDisplayName": null,
+                  "ToolUpgradeLevel": -1,
+                  "IsRecipe": false,
+                  "StackModifiers": null,
+                  "StackModifierMode": "Stack",
+                  "QualityModifiers": null,
+                  "QualityModifierMode": "Stack",
+                  "ModData": null,
+                  "PerItemCondition": null
+                }
+              ],
+              "MinutesUntilReady": -1,
+              "DaysUntilReady": 34,
+              "InvalidCountMessage": "{{i18n: message.invalidCount}}",
+              "RecalculateOnCollect": false
+            },
+            {
+              "Id": "Default_Beer",
+              "Triggers": [
+                {
+                  "Id": "ItemPlacedInMachine",
+                  "Trigger": "ItemPlacedInMachine",
+                  "RequiredItemId": "(O)346",
+                  "RequiredTags": null,
+                  "RequiredCount": 2,
+                  "Condition": "LOCATION_NAME Target Cellar, ITEM_QUALITY Input 0 2"
+                }
+              ],
+              "UseFirstValidOutput": false,
+              "OutputItem": [
+                {
+                  "CustomData": null,
+                  "OutputMethod": null,
+                  "CopyColor": false,
+                  "CopyPrice": false,
+                  "CopyQuality": false,
+                  "PreserveType": null,
+                  "PreserveId": null,
+                  "IncrementMachineParentSheetIndex": 0,
+                  "PriceModifiers": null,
+                  "PriceModifierMode": "Stack",
+                  "Condition": null,
+                  "Id": "(O)346",
+                  "ItemId": "(O)346",
+                  "RandomItemId": null,
+                  "MaxItems": null,
+                  "MinStack": 2,
+                  "MaxStack": 2,
+                  "Quality": 4,
+                  "ObjectInternalName": null,
+                  "ObjectDisplayName": null,
+                  "ToolUpgradeLevel": -1,
+                  "IsRecipe": false,
+                  "StackModifiers": null,
+                  "StackModifierMode": "Stack",
+                  "QualityModifiers": null,
+                  "QualityModifierMode": "Stack",
+                  "ModData": null,
+                  "PerItemCondition": null
+                }
+              ],
+              "MinutesUntilReady": -1,
+              "DaysUntilReady": 2,
+              "InvalidCountMessage": "{{i18n: message.invalidCount}}",
+              "RecalculateOnCollect": false
+            }
+          ],
+          "AdditionalConsumedItems": null,
+          "PreventTimePass": null,
+          "ReadyTimeModifiers": null,
+          "ReadyTimeModifierMode": "Stack",
+          "InvalidItemMessage": "{{i18n: message.caskNoCellar}}",
+          "InvalidItemMessageCondition": "!LOCATION_NAME Target Cellar",
+          "InvalidCountMessage": "{{i18n: message.invalidCount}}",
+          "LoadEffects": [
+            {
+              "Id": "Default",
+              "Condition": null,
+              "Sounds": [
+                {
+                  "Id": "Ship",
+                  "Delay": 0
+                },
+                {
+                  "Id": "bubbles",
+                  "Delay": 0
+                }
+              ]
+            }
+          ],
+          "WorkingEffectChance": 0.33,
+          "AllowLoadWhenFull": false,
+          "WobbleWhileWorking": true,
+          "LightWhileWorking": null,
+          "ShowNextIndexWhileWorking": false,
+          "ShowNextIndexWhenReady": false,
+          "AllowFairyDust": true,
+          "IsIncubator": false,
+          "ClearContentsOvernightCondition": null,
+          "StatsToIncrementWhenLoaded": null,
+          "StatsToIncrementWhenHarvested": null,
+          "ExperienceGainOnHarvest": null,
+          "CustomFields": null
+        }
+      },
+      "LogName": "Long cask machine definition"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Name": "Upper-grade",
+  "Author": "Molenfeuer & ConfusedWolf",
+  "Version": "1.0.0",
+  "Description": "Bigger machinery, pushing your productivity to new heights!",
+  "UniqueID": "Molenfeuer.Uppergrade",
+  "UpdateKeys": [ "Nexus:23823" ],
+  "MinimumApiVersion": "4.0.0",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "2.0.0"
+  }
+}
