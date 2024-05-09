@@ -1,8 +1,8 @@
 {
   "Name": "Upper-grade",
-  "Author": "Molenfeuer",
+  "Author": "Molenfeuer & ConfusedWolf",
   "Version": "1.0.0",
-  "Description": "",
+  "Description": "Bigger machinery, pushing your productivity to new heights!",
   "UniqueID": "Molenfeuer.Uppergrade",
   "UpdateKeys": [ "Nexus:23823" ],
   "MinimumApiVersion": "4.0.0",
