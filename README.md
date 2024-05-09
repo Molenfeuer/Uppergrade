@@ -1,4 +1,4 @@
-# Uppergrade
+# Upper-grade
 
 Bigger machinery, pushing your productivity to new heights!
 
