@@ -4,10 +4,10 @@
       "Action": "EditData",
       "Target": "Data/CraftingRecipes",
       "Entries": {
-        "{{ModId}}_LongCask": "(BC)163 2 388 10 725 2/Home/{{ModId}}_LongCask/true/Farming 1/"
+        "{{ModId}}_LongCask": "(BC)163 2 388 10 725 2/Home/{{ModId}}_LongCask/true/default/"
       },
       "When": {
-        "FarmhouseUpgrade": 3
+        "HasCraftingRecipe": "cask"
       },
       "LogName": "Long cask recipe definition"
     },
