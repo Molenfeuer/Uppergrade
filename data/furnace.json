@@ -4,7 +4,7 @@
       "Action": "EditData",
       "Target": "Data/CraftingRecipes",
       "Entries": {
-        "{{ModId}}_DoubleFurnace": "(BC)13 2 335 1 768 2/Home/{{ModId}}_DoubleFurnace/true/Mining 1/"
+        "{{ModId}}_DoubleFurnace": "(BC)13 2 335 1 768 2/Home/{{ModId}}_DoubleFurnace/true/default/"
       },
       "When": {
         "HasCraftingRecipe": "furnace"

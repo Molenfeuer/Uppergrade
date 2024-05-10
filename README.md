@@ -7,9 +7,11 @@ Bigger machinery, pushing your productivity to new heights!
 1. Download the newest version of this mod from NexusMods or the GitHub [release page](https://github.com/Molenfeuer/Uppergrade/releases)
 2. Extract the ZIP-File and put the folder into the mods folder of SMAPI (mostly located under "C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods")
 
-## Options
+## Options & Compatibility
 
-- Available languages: 🇬🇧 🇩🇪 🇧🇷
+Available languages: 🇬🇧 🇩🇪 🇧🇷 🇪🇸 🇨🇳
+
+Compatible with: ✅ [Automate](https://www.nexusmods.com/stardewvalley/mods/1063?tab=description)
 
 ## Features
 
@@ -34,7 +36,7 @@ If something doesn't work, or you miss a feature, feel free to open a new issue 
 
 - First of all thanks to [ConcernedApe](https://twitter.com/concernedape) for developing Stardew Valley and the Sprites my own Textures based on!
 - Furthermore, a huuuuge thanks for [Pathoschild](https://www.nexusmods.com/stardewvalley/users/1552317) to develop [SMAPI](https://www.nexusmods.com/stardewvalley/mods/2400) and [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915). This modification uses both of these technologies to run!
-- I am delighted that some people helped me with the translation to make the mod understandable for everyone. I would like to thank [ConfusedWolf](https://www.nexusmods.com/stardewvalley/users/15421504) (English) and [Vechio](https://next.nexusmods.com/profile/Vechio/about-me) (Portuguese)
+- I am delighted that some people helped me with the translation to make the mod understandable for everyone. I would like to thank [ConfusedWolf](https://www.nexusmods.com/stardewvalley/users/15421504) (English), [Vechio](https://next.nexusmods.com/profile/Vechio/about-me) (Portuguese), [Cristofer07](https://next.nexusmods.com/profile/Cris0007/about-me?gameId=1303) (Spanish) and [MM1186MM](https://next.nexusmods.com/profile/MM1186MM/about-me?gameId=1303) (Chinese)
 - Last but not least, thanks to the official Stardew Valley Discord server for helping me
 
 ## Other

@@ -1,0 +1,15 @@
+{
+  "message.invalidCount": "Requiere exactamete 2 items del mismo tipo.",
+  "message.invalidCount4": "Requiere exactamete 4 items del mismo tipo.",
+  "message.invalidCount10": "Requiere exactamete 10 items del mismo tipo.",
+  "message.needMoreCoal": "Requiere 2 de carbon.",
+  "message.caskNoCellar": "Solo funciona en la bodega.",
+  "doubleKeg.name": "Barril Doble",
+  "doubleKeg.description": "Es como el barril normal, pero este puede procesar dos items a la vez.",
+  "longJar.name": "Envasadora Extendida",
+  "longJar.description": "Es como la ensavadora normal, pero este puede procesar dos items a la vez .... y es un poco mas alta.",
+  "longCask.name": "Tonel Extendido",
+  "longCask.description": "Puede procesar dos items a la vez.\n\nNote: Producira solo de calidad de iridio, no de menor calidad\n (El vino estara listo en tan solo 56 dias)",
+  "doubleFurnace.name": "Horno Doble",
+  "doubleFurnace.description": "Como el horno normal, pero este puede procesar dos items a la vez."
+}
