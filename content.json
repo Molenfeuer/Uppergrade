@@ -1,5 +1,49 @@
 {
   "Format": "2.0.0",
+  "ConfigSchema": {
+    "CopyQualitySetting": {
+      "AllowValues": "disabled, enabled, auto",
+      "Default": "auto",
+      "Section": "behavior"
+    }
+  },
+  "DynamicTokens": [
+    {
+      "Name": "CopyQualityEnabled",
+      "Value": false
+    },
+    {
+      "Name": "CopyQualityEnabled",
+      "Value": true,
+      "When": {
+        "CopyQualitySetting": "enabled"
+      }
+    },
+    {
+      "Name": "CopyQualityEnabled",
+      "Value": true,
+      "When": {
+        "CopyQualitySetting": "auto",
+        "HasMod": "iakona1983.MachinesCopyQuality"
+      }
+    },
+    {
+      "Name": "CopyQualityEnabled",
+      "Value": true,
+      "When": {
+        "CopyQualitySetting": "auto",
+        "HasMod": "6480.qualitygoods"
+      }
+    },
+    {
+      "Name": "CopyQualityEnabled",
+      "Value": true,
+      "When": {
+        "CopyQualitySetting": "auto",
+        "HasMod": "voiddreams.ArtisanGoodsKeepQuality"
+      }
+    }
+  ],
   "Changes": [
     {
       "Action": "Load",
