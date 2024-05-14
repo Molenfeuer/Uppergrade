@@ -5,6 +5,11 @@
       "AllowValues": "disabled, enabled, auto",
       "Default": "auto",
       "Section": "behavior"
+    },
+    "CaskOutsideCellarSetting": {
+      "AllowValues": "true, false",
+      "Default": false,
+      "Section": "behavior"
     }
   },
   "DynamicTokens": [
@@ -46,6 +51,13 @@
     {
       "Name": "CaskCondition",
       "Value": "ANY \"LOCATION_NAME Target Cellar, ITEM_QUALITY Input 0 2\" \"LOCATION_NAME Target Cellar2, ITEM_QUALITY Input 0 2\" \"LOCATION_NAME Target Cellar3, ITEM_QUALITY Input 0 2\" \"LOCATION_NAME Target Cellar4, ITEM_QUALITY Input 0 2\" \"LOCATION_NAME Target Cellar5, ITEM_QUALITY Input 0 2\" \"LOCATION_NAME Target Cellar6, ITEM_QUALITY Input 0 2\" \"LOCATION_NAME Target Cellar7, ITEM_QUALITY Input 0 2\" \"LOCATION_NAME Target Cellar8, ITEM_QUALITY Input 0 2\""
+    },
+    {
+      "Name": "CaskCondition",
+      "Value": "ITEM_QUALITY Input 0 2",
+      "When": {
+        "CaskOutsideCellarSetting": true
+      }
     }
   ],
   "Changes": [
