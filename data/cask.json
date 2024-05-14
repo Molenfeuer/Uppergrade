@@ -50,7 +50,7 @@
                   "RequiredItemId": "(O)424",
                   "RequiredTags": null,
                   "RequiredCount": 2,
-                  "Condition": "LOCATION_NAME Target Cellar, ITEM_QUALITY Input 0 2"
+                  "Condition": "{{CaskCondition}}"
                 }
               ],
               "UseFirstValidOutput": false,
@@ -100,7 +100,7 @@
                   "RequiredItemId": "(O)426",
                   "RequiredTags": null,
                   "RequiredCount": 2,
-                  "Condition": "LOCATION_NAME Target Cellar, ITEM_QUALITY Input 0 2"
+                  "Condition": "{{CaskCondition}}"
                 }
               ],
               "UseFirstValidOutput": false,
@@ -150,7 +150,7 @@
                   "RequiredItemId": "(O)348",
                   "RequiredTags": null,
                   "RequiredCount": 2,
-                  "Condition": "LOCATION_NAME Target Cellar, ITEM_QUALITY Input 0 2"
+                  "Condition": "{{CaskCondition}}"
                 }
               ],
               "UseFirstValidOutput": false,
@@ -200,7 +200,7 @@
                   "RequiredItemId": "(O)459",
                   "RequiredTags": null,
                   "RequiredCount": 2,
-                  "Condition": "LOCATION_NAME Target Cellar, ITEM_QUALITY Input 0 2"
+                  "Condition": "{{CaskCondition}}"
                 }
               ],
               "UseFirstValidOutput": false,
@@ -250,7 +250,7 @@
                   "RequiredItemId": "(O)303",
                   "RequiredTags": null,
                   "RequiredCount": 2,
-                  "Condition": "LOCATION_NAME Target Cellar, ITEM_QUALITY Input 0 2"
+                  "Condition": "{{CaskCondition}}"
                 }
               ],
               "UseFirstValidOutput": false,
@@ -300,7 +300,7 @@
                   "RequiredItemId": "(O)346",
                   "RequiredTags": null,
                   "RequiredCount": 2,
-                  "Condition": "LOCATION_NAME Target Cellar, ITEM_QUALITY Input 0 2"
+                  "Condition": "{{CaskCondition}}"
                 }
               ],
               "UseFirstValidOutput": false,
