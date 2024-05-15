@@ -12,7 +12,7 @@ Bigger machinery, pushing your productivity to new heights!
 Available configuration:
 
 - Copy item quality
-  - Enabled: The produced item has the same quality as the input item (i.e. blueberry of iridium quality produce iridium quality wine without a cask)
+  - Enabled: The produced item has the same quality as the input item
   - Auto (default): Like Enabled but only when specific mods are installed (see *️⃣ mark)
   - Disabled: Disable this feature
 - Allow cask outside cellar
