@@ -9,9 +9,17 @@ Bigger machinery, pushing your productivity to new heights!
 
 ## Options & Compatibility
 
+Available configuration:
+
+- Copy item quality
+  - Enabled: The produced item has the same quality as the input item (i.e. blueberry of iridium quality produce iridium quality wine without a cask)
+  - Auto (default): Like Enabled but only when specific mods are installed (see *️⃣ mark)
+  - Disabled: Disable this feature
+- Allow cask outside cellar
+
 Available languages: 🇬🇧 🇩🇪 🇧🇷 🇪🇸 🇨🇳
 
-Compatible with: ✅ [Automate](https://www.nexusmods.com/stardewvalley/mods/1063?tab=description)
+Compatible with: ✅ [Automate](https://www.nexusmods.com/stardewvalley/mods/1063?tab=description)  *️⃣ [Machines Copy Quality](https://www.nexusmods.com/stardewvalley/mods/21366)  *️⃣ [Yet Another Quality Goods Mod](https://www.nexusmods.com/stardewvalley/mods/23386)  *️⃣ [Artisan Goods Keep Quality](https://www.nexusmods.com/stardewvalley/mods/21278)
 
 ## Features
 
