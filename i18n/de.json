@@ -1,4 +1,12 @@
 {
+  "config.section.behavior.name": "Verhalten",
+  "config.CopyQualitySetting.name": "Itemqualität übertragen",
+  "config.CopyQualitySetting.description": "Aktiviert: Das produzierte Item hat die gleiche Qualität, wie das hineingepackte Item \n(Beispiel: Iridium-Qualität Blaubeere produziert Iridium-Qualität Wein ohne ein Reifefass).\n\nAuto (Voreingestellt): Verhält sich wie \"Aktiviert\". Jedoch nur, wenn bestimmte Mods installiert sind \n(Vgl. Modseite auf Nexus).\n\nDeaktiviert: Deaktiviert diese Funktion.",
+  "config.CopyQualitySetting.values.disabled": "Deaktiviert",
+  "config.CopyQualitySetting.values.enabled": "Aktiviert",
+  "config.CopyQualitySetting.values.auto": "Auto",
+  "config.CaskOutsideCellarSetting.name": "Reifefass überall verwendbar",
+  "config.CaskOutsideCellarSetting.description": "Das Reifefass kann auch außerhalb des Kellers verwendet werden.",
   "message.invalidCount": "Benötigt mind. 2 Items von diesem Typ.",
   "message.invalidCount4": "Benötigt mind. 4 Items von diesem Typ.",
   "message.invalidCount10": "Benötigt mind. 10 Items von diesem Typ.",

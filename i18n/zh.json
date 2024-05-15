@@ -1,4 +1,12 @@
 {
+  "config.section.behavior.name": "行为",
+  "config.CopyQualitySetting.name": "复制物品品质",
+  "config.CopyQualitySetting.description": "启用：生成的物品与输入物品具有相同的品质\n（即，品质为银星的蓝莓生成银星品质的葡萄酒，无需酒桶）\n\n自动（默认）：与启用相同，但仅在安装了特定的修改时\n（请参阅此修改的 Nexus 页面）\n\n已禁用：禁用此功能",
+  "config.CopyQualitySetting.values.disabled": "已禁用",
+  "config.CopyQualitySetting.values.enabled": "已启用",
+  "config.CopyQualitySetting.values.auto": "自动",
+  "config.CaskOutsideCellarSetting.name": "允许酒桶在地窖外工作",
+  "config.CaskOutsideCellarSetting.description": "允许酒桶在地窖外工作",
   "message.invalidCount": "需要正好 2 个相同类型的物品。",
   "message.invalidCount4": "需要正好 4 个相同类型的物品。",
   "message.invalidCount10": "需要正好 10 个相同类型的物品。",
