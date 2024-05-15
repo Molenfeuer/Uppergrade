@@ -1,4 +1,12 @@
 {
+  "config.section.behavior.name": "Behavior",
+  "config.CopyQualitySetting.name": "Copy item quality",
+  "config.CopyQualitySetting.description": "Enabled: The produced item has the same quality as the input item \n(i.e. blueberry of iridium quality produce iridium quality wine without a cask).\n\nAuto (default): Like Enabled but only when specific mods are installed \n(see Nexus page of this mod).\n\nDisabled: Disable this feature.",
+  "config.CopyQualitySetting.values.disabled": "Disabled",
+  "config.CopyQualitySetting.values.enabled": "Enabled",
+  "config.CopyQualitySetting.values.auto": "Auto",
+  "config.CaskOutsideCellarSetting.name": "Allow cask outside cellar",
+  "config.CaskOutsideCellarSetting.description": "Allow the cask to work outside the cellar.",
   "message.invalidCount": "Requires exactly 2 items of the same type.",
   "message.invalidCount4": "Requires exactly 4 items of the same type.",
   "message.invalidCount10": "Requires exactly 10 items of the same type.",

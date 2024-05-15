@@ -4,14 +4,22 @@ Bigger machinery, pushing your productivity to new heights!
 
 ## Install
 
-1. Download the newest version of this mod from NexusMods or the GitHub [release page](https://github.com/Molenfeuer/Uppergrade/releases)
+1. Download the newest version of this mod from [NexusMods](https://www.nexusmods.com/stardewvalley/mods/23823) or the GitHub [release page](https://github.com/Molenfeuer/Uppergrade/releases)
 2. Extract the ZIP-File and put the folder into the mods folder of SMAPI (mostly located under "C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods")
 
 ## Options & Compatibility
 
+Available configuration:
+
+- Copy item quality
+  - Enabled: The produced item has the same quality as the input item
+  - Auto (default): Like Enabled but only when specific mods are installed (see *️⃣ mark)
+  - Disabled: Disable this feature
+- Allow cask outside cellar
+
 Available languages: 🇬🇧 🇩🇪 🇧🇷 🇪🇸 🇨🇳
 
-Compatible with: ✅ [Automate](https://www.nexusmods.com/stardewvalley/mods/1063?tab=description)
+Compatible with: ✅ [Automate](https://www.nexusmods.com/stardewvalley/mods/1063?tab=description)  *️⃣ [Machines Copy Quality](https://www.nexusmods.com/stardewvalley/mods/21366)  *️⃣ [Yet Another Quality Goods Mod](https://www.nexusmods.com/stardewvalley/mods/23386)  *️⃣ [Artisan Goods Keep Quality](https://www.nexusmods.com/stardewvalley/mods/21278)
 
 ## Features
 
@@ -30,7 +38,7 @@ with a brand new scientific advancements known as 'putting them ontop of each ot
 
 ## Contribute
 
-If something doesn't work, or you miss a feature, feel free to open a new issue on the [GitHub Page of this mod](https://github.com/Molenfeuer/Uppergrade/issues). I prefer the GitHub Page but if you really don't want to use it feel free to use the Issue Page on NexusMods.
+If something doesn't work, or you miss a feature, feel free to open a new issue on the [GitHub Page of this mod](https://github.com/Molenfeuer/Uppergrade/issues). I prefer the GitHub Page but if you really don't want to use it feel free to use the [Issue Page on NexusMods](https://www.nexusmods.com/stardewvalley/mods/23823?tab=bugs).
 
 ## Credits
 

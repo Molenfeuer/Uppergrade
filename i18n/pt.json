@@ -1,4 +1,12 @@
 {
+  "config.section.behavior.name": "Comportamento",
+  "config.CopyQualitySetting.name": "Copiar qualidade do item",
+  "config.CopyQualitySetting.description": "Ativado: O item produzido terá a mesma quantidade da matéria prima \n(ex. o mirtilo de qualidade Irídio produzirá um vinho de qualidade Irídio sem o uso de um barril de madeira)\n\nAutomático (padrão): É parecido com o ativado, porém funciona apenas quando mods específicos estão instalados \n(consulte a página deste mod na Nexus para mais detalhes)\n\nDesativado: Desativa esta função.",
+  "config.CopyQualitySetting.values.disabled": "Desativado",
+  "config.CopyQualitySetting.values.enabled": "Ativado",
+  "config.CopyQualitySetting.values.auto": "Automático",
+  "config.CaskOutsideCellarSetting.name": "Permitir barris de madeira fora da adega",
+  "config.CaskOutsideCellarSetting.description": "Permitir o funcionamento de barris de madeira fora da adega.",
   "message.invalidCount": "Requer exatamente 2 itens do mesmo tipo.",
   "message.invalidCount4": "Requer exatamente 4 itens do mesmo tipo.",
   "message.invalidCount10": "Requer exatamente 10 itens do mesmo tipo.",
