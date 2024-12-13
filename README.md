@@ -19,7 +19,7 @@ Available configuration:
 
 Available languages: 🇬🇧 🇩🇪 🇧🇷 🇪🇸 🇨🇳
 
-Compatible with: ✅ [Automate](https://www.nexusmods.com/stardewvalley/mods/1063?tab=description)  *️⃣ [Machines Copy Quality](https://www.nexusmods.com/stardewvalley/mods/21366)  *️⃣ [Yet Another Quality Goods Mod](https://www.nexusmods.com/stardewvalley/mods/23386)  *️⃣ [Artisan Goods Keep Quality](https://www.nexusmods.com/stardewvalley/mods/21278)
+Compatible with: ✅ [Automate](https://www.nexusmods.com/stardewvalley/mods/1063?tab=description)  ✅ [Build More Cellars](https://www.nexusmods.com/stardewvalley/mods/21971)  *️⃣ [Machines Copy Quality](https://www.nexusmods.com/stardewvalley/mods/21366)  *️⃣ [Yet Another Quality Goods Mod](https://www.nexusmods.com/stardewvalley/mods/23386)  *️⃣ [Artisan Goods Keep Quality](https://www.nexusmods.com/stardewvalley/mods/21278)
 
 ## Features
 
