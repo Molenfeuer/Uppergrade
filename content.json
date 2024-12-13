@@ -50,7 +50,7 @@
     },
     {
       "Name": "CaskCondition",
-      "Value": "LOCATION_NAME Target Cellar Cellar2 Cellar3 Cellar4 Cellar5 Cellar6 Cellar7 Cellar8, ITEM_QUALITY Input 0 2"
+      "Value": "LOCATION_NAME Target Cellar Cellar2 Cellar3 Cellar4 Cellar5 Cellar6 Cellar7 Cellar8 \"3x3 Standard Cellar Door\" \"6480 2x2 Wood Cellar Doors\" \"Zinnalynn 1x1 Cellar Door\", ITEM_QUALITY Input 0 2"
     },
     {
       "Name": "CaskCondition",
