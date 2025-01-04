@@ -17,7 +17,7 @@ Available configuration:
   - Disabled: Disable this feature
 - Allow cask outside cellar
 
-Available languages: 🇬🇧 🇩🇪 🇧🇷 🇪🇸 🇨🇳
+Available languages: 🇬🇧 🇩🇪 🇧🇷 🇪🇸 🇨🇳 🇫🇷
 
 Compatible with: ✅ [Automate](https://www.nexusmods.com/stardewvalley/mods/1063?tab=description)  ✅ [Build More Cellars](https://www.nexusmods.com/stardewvalley/mods/21971)  *️⃣ [Machines Copy Quality](https://www.nexusmods.com/stardewvalley/mods/21366)  *️⃣ [Yet Another Quality Goods Mod](https://www.nexusmods.com/stardewvalley/mods/23386)  *️⃣ [Artisan Goods Keep Quality](https://www.nexusmods.com/stardewvalley/mods/21278)
 
@@ -44,7 +44,7 @@ If something doesn't work, or you miss a feature, feel free to open a new issue 
 
 - First of all thanks to [ConcernedApe](https://twitter.com/concernedape) for developing Stardew Valley and the Sprites my own Textures based on!
 - Furthermore, a huuuuge thanks for [Pathoschild](https://www.nexusmods.com/stardewvalley/users/1552317) to develop [SMAPI](https://www.nexusmods.com/stardewvalley/mods/2400) and [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915). This modification uses both of these technologies to run!
-- I am delighted that some people helped me with the translation to make the mod understandable for everyone. I would like to thank [ConfusedWolf](https://www.nexusmods.com/stardewvalley/users/15421504) (English), [Vechio](https://next.nexusmods.com/profile/Vechio/about-me) (Portuguese), [Cristofer07](https://next.nexusmods.com/profile/Cris0007/about-me?gameId=1303) (Spanish) and [MM1186MM](https://next.nexusmods.com/profile/MM1186MM/about-me?gameId=1303) (Chinese)
+- I am delighted that some people helped me with the translation to make the mod understandable for everyone. I would like to thank [ConfusedWolf](https://www.nexusmods.com/stardewvalley/users/15421504) (English), [Vechio](https://next.nexusmods.com/profile/Vechio/about-me) (Portuguese), [Cristofer07](https://next.nexusmods.com/profile/Cris0007/about-me?gameId=1303) (Spanish), [MM1186MM](https://next.nexusmods.com/profile/MM1186MM/about-me?gameId=1303) (Chinese), [Mazoout](https://next.nexusmods.com/profile/Mazoout?gameId=1303) (French)
 - Last but not least, thanks to the official Stardew Valley Discord server for helping me
 
 ## Other

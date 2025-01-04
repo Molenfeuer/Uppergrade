@@ -1,0 +1,23 @@
+{
+  "config.section.behavior.name": "Fonctionnement",
+  "config.CopyQualitySetting.name": "Qualité de l'objet conservée",
+  "config.CopyQualitySetting.description": "Activé : Le produit d'artisanat fabriqué conserve la qualité de l'objet\n(Ex : une myrtille de qualité iridium dans un tonneau donne du vin iridium sans besoin de le faire vieillir).\n\nAuto (par défaut) : La qualité est conservée uniquement si des mods spécifiques sont installés\n(voir page Nexus du mod).\n\nDésactivé : La qualité n'est pas conservée.",
+  "config.CopyQualitySetting.values.disabled": "Désactivé",
+  "config.CopyQualitySetting.values.enabled": "Activé",
+  "config.CopyQualitySetting.values.auto": "Auto",
+  "config.CaskOutsideCellarSetting.name": "Fût à l'extérieur du cellier",
+  "config.CaskOutsideCellarSetting.description": "Permet aux fûts de fonctionner même s'ils ne sont pas placés dans le cellier.",
+  "message.invalidCount": "Nécessite au moins 2 objets identiques.",
+  "message.invalidCount4": "Nécessite au moins 4 objets identiques.",
+  "message.invalidCount10": "Nécessite au moins 10 objets identiques.",
+  "message.needMoreCoal": "Nécessite 2 charbons.",
+  "message.caskNoCellar": "Ne fonctionne que dans le cellier.",
+  "doubleKeg.name": "Tonneau double",
+  "doubleKeg.description": "Identique au tonneau, mais peut transformer 2 objets en même temps.",
+  "longJar.name": "Grand bocal",
+  "longJar.description": "Identique au bocal, mais peut transformer 2 objets en même temps. Prend un peu plus de temps.",
+  "longCask.name": "Grand fût",
+  "longCask.description": "Peut vieillir 2 objets en même temps.\n\nRésultat en qualité iridium uniquement\n(Vin vieilli en 56 jours seulement).",
+  "doubleFurnace.name": "Fournaise double",
+  "doubleFurnace.description": "Identique à la fournaise, mais peut transformer 2 objets en même temps."
+}
